@@ -12,4 +12,11 @@
 1. оплата заказа происходит по выставленному счету в российских рублях;
 2. загрузка картинок preview и для полного просмотра обрабатывается на стороне сервера (crop и shrinking).
 
+### Список сверстанных страниц:
+- http://artpersia.ru/index.html
+- http://artpersia.ru/basket.html
+- http://artpersia.ru/card.html
+- http://artpersia.ru/catalog.html
+
+
 Project artpersia.ru . All sources you can find by link http://bit.ly/mashkov_yd_artpersia
